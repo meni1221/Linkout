@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linkout", "Linkout\Linkout.csproj", "{5F5A55CD-7235-4649-BB14-0FD3BE633A3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F5A55CD-7235-4649-BB14-0FD3BE633A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F5A55CD-7235-4649-BB14-0FD3BE633A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F5A55CD-7235-4649-BB14-0FD3BE633A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F5A55CD-7235-4649-BB14-0FD3BE633A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {745A9A8B-68EA-4573-8EE1-95BEC9643718}
+	EndGlobalSection
+EndGlobal
